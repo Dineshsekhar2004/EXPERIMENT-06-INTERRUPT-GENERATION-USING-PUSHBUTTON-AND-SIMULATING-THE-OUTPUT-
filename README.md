@@ -183,7 +183,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  : when push button is not pressed
-![WhatsApp Image 2023-05-27 at 03 51 58](https://github.com/Dineshsekhar2004/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/119405916/ea1d49e4-f104-4dd5-bf6e-f299bdca9da8)
+![WhatsApp Image 2023-05-26 at 14 53 03](https://github.com/Dineshsekhar2004/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/119405916/e7d0f7ca-dcac-4570-84de-a232771f97c8)
+
+
 
 when push button is pressed
 ![WhatsApp Image 2023-05-27 at 03 51 58](https://github.com/Dineshsekhar2004/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/119405916/fef2c01a-e72c-4798-b7fe-7e93ad7cf559)
